@@ -24,7 +24,7 @@
 
 % Set up the fonts according to options
 \def\mainfontsize{11pt}
-\def\mainfontface{Times New Roman}
+\def\mainfontface{FreeSerif}
 
 \DeclareOption{calibri}{%
   \def\mainfontface{Calibri}
